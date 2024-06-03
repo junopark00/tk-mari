@@ -1,0 +1,5 @@
+engines.tk-mari.location:
+  type: git
+  name: tk-mari
+  version: v1.4.1
+  path: "github.com/junopark00/tk-mari.git"

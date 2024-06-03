@@ -1,0 +1,5 @@
+includes:
+-./includes/settings/tk-asset.yml
+
+engines:
+  tk-mari: "@settings.tk-mari.project
